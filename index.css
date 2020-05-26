@@ -5,3 +5,9 @@
 				text-decoration:none;
 				font-size:50px;
 				}
+.arrow a:hover{
+				color:#FFAAA5;
+				}
+.arrow a:active{
+				color:#FFAAA5;
+				}		
